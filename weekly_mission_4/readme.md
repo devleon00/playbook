@@ -7,5 +7,5 @@ Proyectos desarrollados en la semana 4:
 |`fizzbuzz`|1|[Link al repo](https://github.com/devleon00/Refactoring)|
 |`PR`|2|[Link al repo](https://github.com/devleon00/fizzbuzz)|
 |`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/devleon00/Code-Challenge-Microsoft)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello`|6|[Link al repo](https://trello.com/)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
